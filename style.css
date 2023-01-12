@@ -1,0 +1,39 @@
+
+body{
+    padding: 50px 100px;
+    /* background-color: #E1DCD9; */
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 50px;
+    color: rgba(6, 6, 55, 0.89);
+    word-spacing: 0.1rem;
+    text-transform:uppercase;
+}
+#conatiner{
+    text-align: center;
+    padding: 50px;
+    background-color: #b2a198;
+    border: 3px double #76675f ;
+    border-radius: 20px;
+}
+.input-div{
+    display: inline-block;
+}
+.input{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #76675f;
+}
+label{
+    font-size: 25px;
+    font-weight: bolder;
+}
